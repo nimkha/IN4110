@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+    <img src="{{ first_image }}" alt="First Image">
+    <img src="{{ second_image }}" alt="Second Image">
+    <img src="{{ third_image }}" alt="Third Image">
+    <br>
+    <h3>Accuracy score with all features</h3>
+    K Neighbors Classifier score {{knn_score_one}}<br>
+    SVM score {{svm_score_one}}<br>
+    Logistic Regression score {{lg_score_one}}<br>
+    <h3>Accuracy score with 3 features</h3>
+    K Neighbors Classifier score {{knn_score_two}}<br>
+    SVM score {{svm_score_two}}<br>
+    Logistic Regression score {{lg_score_two}}<br>
+    <h3>Accuracy score with 5 features</h3>
+    K Neighbors Classifier score {{knn_score_three}}<br>
+    SVM score {{svm_score_three}}<br>
+    Logistic Regression score {{lg_score_three}}<br>
+
+    <br>
+    <a href="docs">Sphinx docs</a>
+</body>
+</html>

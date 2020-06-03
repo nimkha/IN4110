@@ -1,0 +1,8 @@
+"(#\binclude\b)": import_definition
+"(\<\w+\.\w\>)": import_name
+"\bnull\b|\btrue\b|\bfalse\b": special_statement
+"[\"].+?[\"]": double_quote_string
+"[\'].+?[\']": single_quote_string
+"\/\/.*(?:$|\n)": comment
+"(\bint\b|\bchar\b|\bfloat\b|\bdouble\b|\bshort\b|\blong\b|\bvoid\b)": data_types
+"(\bif\b|\bwhen\b|\bdo\b|\breturn\b|\bfor\b|\bwhile\b|\belse\b)": loops

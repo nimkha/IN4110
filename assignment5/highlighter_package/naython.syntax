@@ -1,0 +1,12 @@
+"NNNN.*(?:$|\n)": comment
+"def\s": function_definition
+"class\s": class_definition
+"import\s": import_definition
+"\bNone\b|\bTrue\b|\bFalse\b": special_statement
+"(\bfor\b|\bin\b)": for_loop
+"(\bwhile\b|\bdo\b)": while_loop
+"(\bif\b|\belif\b|\belse\b)": if_loop
+"[\"].+?[\"]": double_quote_string
+"[\'].+?[\']": single_quote_string
+"(\btry\b|\bexcept\b)": try_statement
+"\#.*(?:$|\n)": hashtag_comment

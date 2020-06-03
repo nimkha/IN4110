@@ -1,0 +1,11 @@
+function_definition: 0;32
+class_definition: 0;32
+import_definition: 0;32
+special_statement: 0;33
+for_loop: 0;35
+while_loop: 0;35
+if_loop: 0;35
+double_quote_string: 0;96
+single_quote_string: 0;96
+try_statement: 0;35
+hashtag_comment: 0;37

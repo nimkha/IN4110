@@ -1,0 +1,6 @@
+pandas
+matplotlib
+lmfit
+numpy
+scikit-learn
+flask

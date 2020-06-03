@@ -1,2 +1,1 @@
-# IN4110
-Tasks done in course IN4110
+# IN3110-nimakha

@@ -1,0 +1,9 @@
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 7.212163686752319
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 7.769110679626465
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 9.531749725341797
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.315144777297974
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.358684301376343
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.2207863330841064
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.2310566902160645
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.123915672302246
+Run time for beatles.jpg using blur_4 with shape (480, 640, 3) is: 5.267566442489624

@@ -1,0 +1,10 @@
+START -> "Tue Sep  3 21:54:21 CEST 2019"
+LABEL -> "new task"
+STOP -> "Tue Sep  3 22:01:46 CEST 2019"
+Time spent on task new task -> 0:0:7:25
+
+START -> "Tue Sep  3 22:02:37 CEST 2019"
+LABEL -> "another task"
+STOP -> "Tue Sep  3 22:03:42 CEST 2019"
+Time spent on task another task -> 0:0:1:5
+

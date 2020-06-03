@@ -1,0 +1,8 @@
+\b[C|c]\w+: get all words starting with c or C
+r"\bit\b": random word
+r"\bis\b": random word
+r"\ba\b": random word
+r"\bthe\b": random word
+r"\bfew\b": random word
+r"\balso\b": random word
+r"\bexpect\b": random word

@@ -1,0 +1,18 @@
+Create a grep-like utility. It should take a filename, along with a regular
+expression, and print all lines where there the regex matches on one part of
+the line. The regex does not have to match from the start of the line, if
+the line is aabbbcccc and the regex is bb, then the line should be printed.
+Further, it should be possible to color the matching parts of the lines by using
+a --highlight flag.
+For IN4110/bonus, it should be possible to take an  number of
+regular expressions, and the script should be able to get all of these. The
+matching parts should be colored according to what regex they match. How-
+ever, it is enough to choose a few colors, and cycle between them, to allow
+several regular expressions.
+You are encouraged to use code previously written in this assignment (i.e.
+the highlighter). Therefore it is recommended that you try to make your code
+reusable in 5.1. You should also try to avoid duplicate code. For parsing of the
+command line arguments, the argparse module is recommended.
+It is not expected that your grep.py script should work exactly as the
+UNIX utility. For instance, your implementation is expected to use Python’s
+regex syntax.

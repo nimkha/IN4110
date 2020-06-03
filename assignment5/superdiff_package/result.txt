@@ -1,0 +1,7 @@
+- a whole line
+0 b whole line
+0 c whole line
+0 d whole line
+0 e whole line
+0 f whole line
++ g whole line
